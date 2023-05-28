@@ -1,18 +1,20 @@
-# 💫 About Me:
-I'm currently persuing Post Graduate Program for Data Analytics and Machine Learning
+## Hi there, I'm Ramesh Lingam 👋
 
+I am a passionate data enthusiast currently pursuing a PG Program in Data Analytics and Machine Learning, with a strong foundation in Mathematics from my BSc degree, I am eager to apply my analytical and problem-solving skills to extract valuable insights from complex datasets.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lingamramesh) 
+### 🔭 My Interests
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LingamR&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LingamR&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LingamR&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- Data Analysis: I enjoy exploring datasets, identifying trends, and extracting meaningful insights to drive data-informed decision-making.
+- Machine Learning: I am fascinated by the potential of machine learning algorithms to uncover patterns and make accurate predictions based on data.
 
----
-[![](https://visitcount.itsvg.in/api?id=LingamR&icon=0&color=11)](https://visitcount.itsvg.in)
+### 🎓 Education
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Bachelor of Science in Mathematics: I graduated with a BSc degree in Mathematics, which provided me with a strong foundation in mathematical concepts, logic, and problem-solving skills. This background has been instrumental in my pursuit of data analytics and machine learning.
+- Postgraduate Program in Data Analytics and Machine Learning: Currently, I am enrolled in a rigorous postgraduate program focused on data analytics and machine learning. Through this program, I am gaining practical experience in data preprocessing, exploratory data analysis, predictive modeling, and more.
+
+### 📫 How to reach me
+
+- Email: mr.rameshlingam@gmail.com
+- LinkedIn: https://www.linkedin.com/in/lingamramesh/
+
+I am eager to collaborate on data-driven projects, expand my knowledge, and contribute to the field of data analytics and machine learning. If you have any exciting opportunities or ideas, please feel free to get in touch. Let's connect and explore the fascinating world of data together!
